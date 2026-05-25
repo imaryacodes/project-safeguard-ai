@@ -98,6 +98,3 @@ B.Tech Computer Science & Engineering — Bennett University
 
 ---
 
-## 📌 Status
-
-✅ **Completed** — Fully working spam detection system
